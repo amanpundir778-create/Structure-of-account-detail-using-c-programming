@@ -1,2 +1,3 @@
 # Structure-of-account-detail-using-c-programming
 ADD OF CODE OF C
+HOW TO WORK OF ATM MOBLIE BANKING TO BE TRANSACTIONS OF ACCOUNT HOLDER
